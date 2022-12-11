@@ -66,3 +66,22 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.DS_Store
+.idea/.idea.knapsack.dir/.idea/.name
+*.xml
+bin/Debug/net6.0/knapsack.dll
+bin/Debug/net6.0/knapsack.pdb
+obj/Debug/net6.0/knapsack.assets.cache
+obj/Debug/net6.0/knapsack.csproj.CoreCompileInputs.cache
+obj/Debug/net6.0/knapsack.csproj.FileListAbsolute.txt
+obj/Debug/net6.0/knapsack.dll
+obj/Debug/net6.0/knapsack.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/knapsack.genruntimeconfig.cache
+obj/Debug/net6.0/knapsack.pdb
+obj/Debug/net6.0/ref/knapsack.dll
+obj/Debug/net6.0/refint/knapsack.dll
+obj/knapsack.csproj.nuget.dgspec.json
+obj/project.assets.json
+obj/project.nuget.cache
+obj/project.packagespec.json
+obj/rider.project.restore.info

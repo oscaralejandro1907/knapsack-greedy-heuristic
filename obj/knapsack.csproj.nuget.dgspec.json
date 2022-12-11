@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oscarhernandezlopez/RiderProjects/knapsack/knapsack.csproj": {}
+    "/Users/oscarhernandezlopez/repos/knapsack-greedy-heuristic/knapsack.csproj": {}
   },
   "projects": {
-    "/Users/oscarhernandezlopez/RiderProjects/knapsack/knapsack.csproj": {
+    "/Users/oscarhernandezlopez/repos/knapsack-greedy-heuristic/knapsack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oscarhernandezlopez/RiderProjects/knapsack/knapsack.csproj",
+        "projectUniqueName": "/Users/oscarhernandezlopez/repos/knapsack-greedy-heuristic/knapsack.csproj",
         "projectName": "knapsack",
-        "projectPath": "/Users/oscarhernandezlopez/RiderProjects/knapsack/knapsack.csproj",
+        "projectPath": "/Users/oscarhernandezlopez/repos/knapsack-greedy-heuristic/knapsack.csproj",
         "packagesPath": "/Users/oscarhernandezlopez/.nuget/packages/",
-        "outputPath": "/Users/oscarhernandezlopez/RiderProjects/knapsack/obj/",
+        "outputPath": "/Users/oscarhernandezlopez/repos/knapsack-greedy-heuristic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oscarhernandezlopez/.nuget/NuGet/NuGet.Config"

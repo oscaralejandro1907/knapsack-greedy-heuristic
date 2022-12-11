@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDQlTFCmInJCWxfP5Q3EW5qCOH1IYzeOBS0NJiutjHn7q3wby09KB7B6XSGapeZlDo0CjZRtS5CCsqMBQoEqiw==",
+  "dgSpecHash": "sFvfBVLLdD3vEogwd2whxZoZ50bongOI0RogCf5GHBNv+3DsFrJjH0ANnUVVZ7/yPoOQ6+G9tVuNeROhmOz3Ew==",
   "success": true,
-  "projectFilePath": "/Users/oscarhernandezlopez/RiderProjects/knapsack/knapsack.csproj",
+  "projectFilePath": "/Users/oscarhernandezlopez/repos/knapsack-greedy-heuristic/knapsack.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
